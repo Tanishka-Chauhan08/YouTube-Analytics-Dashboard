@@ -42,10 +42,15 @@ The main objective of this project is to help content creators, analysts, and di
 
 ## Questions (KPIs)
 - How have total views changed over time?
+  
 - Which 5 videos generated the most revenue?
+  
 - Which videos have high watch time despite fewer views?
+  
 - Which videos received the most likes, comments, and shares?
+  
 - Which content earns the most per view?
+  
 - What patterns define top-performing videos?
 
 
