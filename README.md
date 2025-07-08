@@ -40,6 +40,14 @@ The main objective of this project is to help content creators, analysts, and di
 ## Dashboard
 ![YouTube Dashboard](https://github.com/user-attachments/assets/0536ff09-b35b-43ea-9f72-84b8a0f4a172)
 
+## Questions (KPIs)
+- How have total views changed over time?
+- Which 5 videos generated the most revenue?
+- Which videos have high watch time despite fewer views?
+- Which videos received the most likes, comments, and shares?
+- Which content earns the most per view?
+- What patterns define top-performing videos?
+
 
 ## Project Insights
 
